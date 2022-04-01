@@ -5,14 +5,14 @@
 # technické nastavení
 #
 
-title: Piráti - Olomoucký kraj # To co je napsané na tabu ve kterém je stránka.
-email: olomoucky@pirati.cz
+title: Piráti - Šumperk # To co je napsané na tabu ve kterém je stránka.
+email: sumperk@pirati.cz
 description: >-
-  Česká pirátská strana - Krajské sdružení Olomoucký kraj
+  Česká pirátská strana - Místní sdružení Šumperk
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: krajské sdružení, olomoucký, piráti, česká pirátská strana, politická strana, politika, demokracie, svoboda, otevřenost, transparentnost
+keywords: krajské sdružení, sumperk, piráti, česká pirátská strana, politická strana, politika, demokracie, svoboda, otevřenost, transparentnost
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://olomoucky.pirati.cz" # the base hostname & protocol for your site
+url: "https://sumperk.pirati.cz" # the base hostname & protocol for your site
 
 mediaStorage: olomoucky
 
@@ -20,9 +20,9 @@ administrator:
   email: jan.suchanek@gmail.com, honza.dvorak@pirati.cz, jaromirhorky14@gmail.com
 
 organization:
-  name: Piráti - Olomoucký kraj
-  shortName: Piráti - Olomoucký kraj
-  email: olomoucky@pirati.cz
+  name: Piráti - Šumperk
+  shortName: Piráti - Šumperk
+  email: sumperk@pirati.cz
   phone: +420 778 111 488
   address: |
     Picolo Olomouc
@@ -62,8 +62,8 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/piratiOlomoucko/
-  profilePageName: Piráti - Olomoucký kraj
+  profilePage: https://www.facebook.com/PiratiSumperk
+  profilePageName: Piráti - Šumperk
   #appId: 1526197851008996
 
 twitter:
