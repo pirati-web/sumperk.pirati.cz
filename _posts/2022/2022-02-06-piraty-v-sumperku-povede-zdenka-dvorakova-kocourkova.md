@@ -5,7 +5,7 @@ title: "Piráty v Šumperku povede v komunálních volbách Zdeňka Dvořáková
 date: 2022-02-06
 tags: Šumperk
 author: Josef Indra
-image: img/sumperk/articles/2022/2022-02-06-piraty-v-sumperku-povede-zdenka-dvorakova-kocourkova.jpg  #751x422 pixelu
+image: img/articles/2022/2022-02-06-piraty-v-sumperku-povede-zdenka-dvorakova-kocourkova.jpg  #751x422 pixelu
 ---
 
 Piráti si v Šumperku zvolili jako jedničku kandidátky do podzimních komunálních voleb radní Olomouckého kraje **Zdeňku Dvořákovou Kocourkovou**. Ta má zkušenosti s komunální politikou v Šumperku již od roku 2014, kdy byla poprvé zvolena do městského zastupitelstva. Za priority města považuje obchvat a přírodě blízká protipovodňová opatření, která významně pomohou k vyšší bezpečnosti obyvatel města.
