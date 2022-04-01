@@ -19,9 +19,6 @@ main:
   - link: /lide/
     name: Lidé
     match: lide  
-  - link: /mistni-sdruzeni/
-    name: Místní sdružení
-    match: mistni-sdruzeni
 
   - link: /kontakt/
     name: Kontakty
