@@ -18,10 +18,7 @@ main:
     match: aktuality
   - link: /lide/
     name: Lidé
-    match: lide
-  - link: /picolo/
-    name: Pirátské centrum
-    match: picolo    
+    match: lide  
   - link: /mistni-sdruzeni/
     name: Místní sdružení
     match: mistni-sdruzeni
@@ -34,7 +31,7 @@ bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
-      - link: https://stredocesky.pirati.cz/zajemci
+      - link: https://nalodeni.pirati.cz
         name: Naloď se
       - link: /mistni-sdruzeni/
         name: Místní sdružení
