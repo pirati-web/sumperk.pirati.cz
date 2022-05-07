@@ -5,6 +5,7 @@ title: "Dotazník spokojenosti pro obyvatele Šumperka"
 date: 2022-05-07
 tags: Šumperk
 author: Jan Mach
+image: articles/2022/2022-02-06-dotaznik-spokojenosti-pro-obyvatele-sumperka.jpg #751x422 pixelu
 ---
 **Zajímáme se o specifické znaky, které jsou spojeny s lokalitou, ve které žijete právě Vy.**
 
